@@ -39,7 +39,7 @@ namespace BasicGit
 
         static void Rezky()
         {
-
+            Console.WriteLine("Test dari bracng REZKY");
         }
 
         static void Hanif()
