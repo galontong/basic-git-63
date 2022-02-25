@@ -34,6 +34,7 @@ namespace BasicGit
         
         static void Reo()
         {
+            Console.WriteLine("ini dikerjakan oleh Reo");
 
         }
 
