@@ -15,6 +15,7 @@ namespace BasicGit
         static void Herul()
         {
             Console.WriteLine("From Herul Syahwandi versi 2");
+            Console.WriteLine("From Herul Syahwandi versi 3");
         }
 
         static void Achmad()
