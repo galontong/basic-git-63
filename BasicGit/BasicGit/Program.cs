@@ -29,7 +29,7 @@ namespace BasicGit
 
         static void Rizky()
         {
-
+            Console.WriteLine("Kode ini dikerjakan oleh Rizky");
         }
         
         static void Reo()
