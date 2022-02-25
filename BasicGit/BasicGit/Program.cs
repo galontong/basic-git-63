@@ -24,7 +24,7 @@ namespace BasicGit
 
         static void Denny()
         {
-
+            Console.WriteLine("Hai from Denny");
         }
 
         static void Rizky()
